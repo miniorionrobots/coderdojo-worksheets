@@ -1,7 +1,7 @@
 # <div align = "center"> Turtle Flashcards
 In this tutorial, we will be creating Pokemon flashcards using Turtle in Python 3. In this game you will be given the name of a Pokemon and will be asked what type it is.
 
-**Difficulty** (out of 5): 🌶🌶
+**Difficulty** (out of 5): 🌶
 
 **This Tutorial Includes:**
 * Dictionaries / Maps
