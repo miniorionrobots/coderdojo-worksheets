@@ -228,4 +228,4 @@ Well done, you now have your own Poke-flashcards!
 
 Or anything else, make this project your own!
 
-## <div align = "center"> Go Make Stuff and be Awesome, Bye!
+## <div align = "center"> Go Make Stuff and be Awesome!
