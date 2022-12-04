@@ -1,16 +1,16 @@
 # <div align = "center"> Turtle Flashcards
 In this tutorial, we will be creating Pokemon flashcards using Turtle in Python 3. In this game you will be given the name of a Pokemon and will be asked what type it is.
 
-Difficulty (out of 5): 🌶🌶
+Difficulty (out of 5): 🌶
 
 This Tutorial Includes:
 * Dictionaries / Maps
 
-![afwhiwafh](turtle_flashcards_thumbnail.png)
+![thumbnail](turtle_flashcards_thumbnail.png)
 
 ---
 # Step 1: Mapping out Pokemon
-To start with, we're going to start of by creating a list like this:
+To start with, let's create an empty list like this:
 
 ``` python
 pokemon = [ ]
@@ -158,7 +158,7 @@ turtle.write(
     )
 time.sleep(3)
 turtle.clear()
-turle.goto(0,0)
+turtle.goto(0,0)
 turtle.color("black")
 ```
 Don't forget to spell colour the American way! You can test this, but it won't be very useful. Now to finally add the loop:
@@ -202,4 +202,4 @@ Well done, you now have your own Poke-flashcards!
 
 Or anything else, make this project your own!
 
-## <div align = "center"> Go Make Stuff and be Awesome, Bye!
+## <div align = "center"> Go Make Stuff and be Awesome!
