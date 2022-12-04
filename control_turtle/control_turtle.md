@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../layouts/worksheet.css">
+
 # <div align = "center"> Control Turtle
 In this tutorial, we will be learning how to use the arrow keys to control where the turtle moves!
 
@@ -81,7 +83,7 @@ tspeed = 10
 def left():
     turtle.setheading(180)
     turtle.forward(tspeed)
-    
+
 def right():
     turtle.setheading(0)
     turtle.forward(tspeed)
@@ -93,12 +95,6 @@ def down():
 def up():
     turtle.setheading(90)
     turtle.forward(tspeed)
-
-turtle.onkeypress(left, "Left")
-turtle.onkeypress(right, "Right")
-turtle.onkeypress(down, "Down")
-turtle.onkeypress(up, "Up")
-turtle.mainloop()
 ```
 Well done! You've just made a  turtle which you can control with arrow keys!
 ### WAIT, WAIT UP! Before you go and get another tutorial up, try:
