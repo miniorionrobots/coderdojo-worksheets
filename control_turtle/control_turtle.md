@@ -3,9 +3,6 @@ In this tutorial, we will be learning how to use the arrow keys to control where
 
 Difficulty (out of 5): 🌶
 
-This Tutorial Includes:
-* 
-
 ![thumbnail](control_turtle_thumbnail.png)
 
 ---
