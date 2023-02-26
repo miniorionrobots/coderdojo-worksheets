@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="../layouts/worksheet.css">
 
-#
 # <div align = "center"> Scratch Rocket Lander
 
 In this tutorial, we will be creating a game where you must land your rocketship onto the landing pad, but watch out, if you land it wrong your rocketship will crash!
@@ -14,7 +13,6 @@ Difficulty (out of 5): 🌶🌶
 
 ![thumbnail](scratch_rocket_lander_thumbnail.png)
 
-#
 # Step 1: Rocket Movement.
 
 ## Setup
@@ -53,7 +51,6 @@ Test your code. This is what the end product should look like for this step.
 
 > ## This would be a good time to save your project.
 
-#
 # Step 2: Fire
 
 ## Setup
@@ -84,7 +81,6 @@ Test your code and watch the fire coming out of the `Rocketship` as you move it.
 
 > ## This would be a good time to save your project.
 
-#
 # Step 3: Landing Pad
 
 ## Setup
@@ -111,7 +107,6 @@ Test your code and you should see the `Paddle` move to the bottom of the stage.
 
 > ## This would be a good time to save your project.
 
-#
 # Step 4: Touch Down
 
 ## Code
@@ -130,8 +125,8 @@ This is the end result. I hope you enjoyed this tutorial.
 
 > ## This would be a good time to save your project.
 
-### WAIT, WAIT UP! Before you go, try:
-# <div align = "center"> 🎉 PERSONALISING 🎉
+## <div align = "center"> 🎉 PERSONALISING 🎉
+WAIT, WAIT UP! Before you go, try personalising your project!
 * Add different levels with different backgrounds.
 * Make the range that the direction must be to win smaller.
 * Make the `Rocketship` explode when touch down has failed!
